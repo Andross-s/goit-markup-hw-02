@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455
-  background-color #FFFFFF
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 ul {
@@ -83,14 +83,12 @@ ul {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   cursor: pointer;
 }
 .main-section-button:hover,
 .main-section-button:focus {
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
 
@@ -128,12 +126,6 @@ ul {
 }
 
 .team-card {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
 
